@@ -1,0 +1,4 @@
+D:\GithubNew\1\Electrum-Wallet\Electrum-Wallet\Electrum-Wallet\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\1\Electrum-Wallet\Electrum-Wallet\Electrum-Wallet\Form11\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GithubNew\1\Electrum-Wallet\Electrum-Wallet\Electrum-Wallet\Form11\obj\Debug\Form1.csproj.GenerateResource.cache
+D:\GithubNew\1\Electrum-Wallet\Electrum-Wallet\Electrum-Wallet\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
